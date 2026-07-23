@@ -1,5 +1,7 @@
 # Google Ads 週報 Apps Script
 
+將 Ads 轉出的 Sheet 整理到週報 Sheet。
+
 這份程式會讀取兩份 Google Ads 匯出試算表：
 
 1. Campaign 成效來源
